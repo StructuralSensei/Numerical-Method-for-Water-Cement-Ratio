@@ -1,4 +1,4 @@
-# Optimization of Concrete Mix Proportions
+# How to Calculate Water Cement Ratio using Python
 ## Try it now in Google Colab:
 ### [Click here to run the Method in your browser](https://colab.research.google.com/drive/1SybppXSOUwtw-jhMAfwpLtq0_-kMiKZH?usp=sharing)
 
