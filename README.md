@@ -1,4 +1,6 @@
 # Optimization of Concrete Mix Proportions
+## Try it now in Google Colab:
+### [Click here to run the Method in your browser](https://colab.research.google.com/drive/1SybppXSOUwtw-jhMAfwpLtq0_-kMiKZH?usp=sharing)
 
 This repository contains two Python scripts used to calculate the optimal water-cement (w/c) ratio for a target concrete compressive strength. The screen will display the results of each calculation step side-by-side to save scrolling space. At the very bottom, it will print the final, optimized w/c ratio.
 
